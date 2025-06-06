@@ -1,0 +1,5 @@
+  File "/home/leyla/Desktop/camara_ws/install/py_pkg/lib/python3.10/site-packages/py_pkg/image_sub.py", line 43
+    if __name__=='__main__'
+                           ^
+SyntaxError: expected ':'
+

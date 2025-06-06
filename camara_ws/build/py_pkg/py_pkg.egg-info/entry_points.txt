@@ -1,0 +1,12 @@
+[console_scripts]
+cal = py_pkg.calibrar:main
+dist_vel = py_pkg.dist_vel:main
+im_prof = py_pkg.im_prof:main
+kd = py_pkg.kinect_d:main
+ki = py_pkg.kinect:main
+ki_aruco = py_pkg.kinect_aruco:main
+lidar = py_pkg.lidar:main
+p3_e2 = py_pkg.p3_e2:main
+sub = py_pkg.image_sub:main
+vel = py_pkg.vel:main
+

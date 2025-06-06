@@ -1,0 +1,27 @@
+[0.687s] Invoking command in '/home/leyla/Desktop/camara_ws/src/py_pkg': PYTHONPATH=/home/leyla/Desktop/camara_ws/build/py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/leyla/Desktop/camara_ws/install/py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py_pkg build --build-base /home/leyla/Desktop/camara_ws/build/py_pkg/build install --record /home/leyla/Desktop/camara_ws/build/py_pkg/install.log --single-version-externally-managed install_data
+[0.872s] running egg_info
+[0.872s] writing ../../build/py_pkg/py_pkg.egg-info/PKG-INFO
+[0.872s] writing dependency_links to ../../build/py_pkg/py_pkg.egg-info/dependency_links.txt
+[0.872s] writing entry points to ../../build/py_pkg/py_pkg.egg-info/entry_points.txt
+[0.872s] writing requirements to ../../build/py_pkg/py_pkg.egg-info/requires.txt
+[0.872s] writing top-level names to ../../build/py_pkg/py_pkg.egg-info/top_level.txt
+[0.873s] reading manifest file '../../build/py_pkg/py_pkg.egg-info/SOURCES.txt'
+[0.882s] adding license file 'LICENSE'
+[0.882s] writing manifest file '../../build/py_pkg/py_pkg.egg-info/SOURCES.txt'
+[0.882s] running build
+[0.882s] running build_py
+[0.883s] running install
+[0.883s] running install_lib
+[0.885s] running install_data
+[0.885s] running install_egg_info
+[0.886s] removing '/home/leyla/Desktop/camara_ws/install/py_pkg/lib/python3.10/site-packages/py_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.887s] Copying ../../build/py_pkg/py_pkg.egg-info to /home/leyla/Desktop/camara_ws/install/py_pkg/lib/python3.10/site-packages/py_pkg-0.0.0-py3.10.egg-info
+[0.887s] running install_scripts
+[0.903s] Installing cal script to /home/leyla/Desktop/camara_ws/install/py_pkg/lib/py_pkg
+[0.903s] Installing im_prof script to /home/leyla/Desktop/camara_ws/install/py_pkg/lib/py_pkg
+[0.904s] Installing kd script to /home/leyla/Desktop/camara_ws/install/py_pkg/lib/py_pkg
+[0.904s] Installing ki script to /home/leyla/Desktop/camara_ws/install/py_pkg/lib/py_pkg
+[0.904s] Installing lidar script to /home/leyla/Desktop/camara_ws/install/py_pkg/lib/py_pkg
+[0.904s] Installing sub script to /home/leyla/Desktop/camara_ws/install/py_pkg/lib/py_pkg
+[0.904s] writing list of installed files to '/home/leyla/Desktop/camara_ws/build/py_pkg/install.log'
+[0.923s] Invoked command in '/home/leyla/Desktop/camara_ws/src/py_pkg' returned '0': PYTHONPATH=/home/leyla/Desktop/camara_ws/build/py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/leyla/Desktop/camara_ws/install/py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py_pkg build --build-base /home/leyla/Desktop/camara_ws/build/py_pkg/build install --record /home/leyla/Desktop/camara_ws/build/py_pkg/install.log --single-version-externally-managed install_data

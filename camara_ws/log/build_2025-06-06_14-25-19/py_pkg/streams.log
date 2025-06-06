@@ -1,0 +1,32 @@
+[0.410s] Invoking command in '/home/leyla/Desktop/camara_ws/src/py_pkg': PYTHONPATH=/home/leyla/Desktop/camara_ws/build/py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/leyla/Desktop/camara_ws/install/py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py_pkg build --build-base /home/leyla/Desktop/camara_ws/build/py_pkg/build install --record /home/leyla/Desktop/camara_ws/build/py_pkg/install.log --single-version-externally-managed install_data
+[0.561s] running egg_info
+[0.561s] writing ../../build/py_pkg/py_pkg.egg-info/PKG-INFO
+[0.562s] writing dependency_links to ../../build/py_pkg/py_pkg.egg-info/dependency_links.txt
+[0.562s] writing entry points to ../../build/py_pkg/py_pkg.egg-info/entry_points.txt
+[0.562s] writing requirements to ../../build/py_pkg/py_pkg.egg-info/requires.txt
+[0.562s] writing top-level names to ../../build/py_pkg/py_pkg.egg-info/top_level.txt
+[0.564s] reading manifest file '../../build/py_pkg/py_pkg.egg-info/SOURCES.txt'
+[0.564s] adding license file 'LICENSE'
+[0.564s] writing manifest file '../../build/py_pkg/py_pkg.egg-info/SOURCES.txt'
+[0.564s] running build
+[0.564s] running build_py
+[0.565s] copying py_pkg/kinect_aruco.py -> /home/leyla/Desktop/camara_ws/build/py_pkg/build/lib/py_pkg
+[0.565s] running install
+[0.565s] running install_lib
+[0.566s] copying /home/leyla/Desktop/camara_ws/build/py_pkg/build/lib/py_pkg/kinect_aruco.py -> /home/leyla/Desktop/camara_ws/install/py_pkg/lib/python3.10/site-packages/py_pkg
+[0.567s] byte-compiling /home/leyla/Desktop/camara_ws/install/py_pkg/lib/python3.10/site-packages/py_pkg/kinect_aruco.py to kinect_aruco.cpython-310.pyc
+[0.567s] running install_data
+[0.568s] running install_egg_info
+[0.569s] removing '/home/leyla/Desktop/camara_ws/install/py_pkg/lib/python3.10/site-packages/py_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.569s] Copying ../../build/py_pkg/py_pkg.egg-info to /home/leyla/Desktop/camara_ws/install/py_pkg/lib/python3.10/site-packages/py_pkg-0.0.0-py3.10.egg-info
+[0.569s] running install_scripts
+[0.583s] Installing cal script to /home/leyla/Desktop/camara_ws/install/py_pkg/lib/py_pkg
+[0.583s] Installing im_prof script to /home/leyla/Desktop/camara_ws/install/py_pkg/lib/py_pkg
+[0.583s] Installing kd script to /home/leyla/Desktop/camara_ws/install/py_pkg/lib/py_pkg
+[0.583s] Installing ki script to /home/leyla/Desktop/camara_ws/install/py_pkg/lib/py_pkg
+[0.583s] Installing ki_aruco script to /home/leyla/Desktop/camara_ws/install/py_pkg/lib/py_pkg
+[0.583s] Installing lidar script to /home/leyla/Desktop/camara_ws/install/py_pkg/lib/py_pkg
+[0.583s] Installing sub script to /home/leyla/Desktop/camara_ws/install/py_pkg/lib/py_pkg
+[0.583s] Installing vel script to /home/leyla/Desktop/camara_ws/install/py_pkg/lib/py_pkg
+[0.583s] writing list of installed files to '/home/leyla/Desktop/camara_ws/build/py_pkg/install.log'
+[0.602s] Invoked command in '/home/leyla/Desktop/camara_ws/src/py_pkg' returned '0': PYTHONPATH=/home/leyla/Desktop/camara_ws/build/py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/leyla/Desktop/camara_ws/install/py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py_pkg build --build-base /home/leyla/Desktop/camara_ws/build/py_pkg/build install --record /home/leyla/Desktop/camara_ws/build/py_pkg/install.log --single-version-externally-managed install_data
